@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ColorViewController.swift
 //  ColorView
 //
 //  Created by Руслан Штыбаев on 05.09.2021.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ColorViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
